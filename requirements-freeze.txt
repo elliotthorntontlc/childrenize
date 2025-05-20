@@ -1,0 +1,6 @@
+cffi==1.15.1
+numpy==1.26.4
+pycparser==2.22
+pyworld @ git+https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder.git@9e6cd3e6b2f813d1ffb910d1a0b18ab53f669086
+setuptools==80.7.1
+wheel==0.45.1

@@ -1,7 +1,7 @@
 cffi==1.15.1
 Cython==0.29.34
-numpy==1.24.3
+numpy==1.26.4
 pycparser==2.21
 pyworld==0.3.3
-scipy==1.10.1
+scipy==1.11.4
 soundfile==0.12.1
